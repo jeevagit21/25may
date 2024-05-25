@@ -1,0 +1,19 @@
+uuid: 0e247c43-64f8-485f-8eff-235b1740e895
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_title
+    - node.type.add_news
+id: node.add_news.field_title
+field_name: field_title
+entity_type: node
+bundle: add_news
+label: title
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

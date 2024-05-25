@@ -1,0 +1,8 @@
+uuid: 908943eb-962b-46f0-b913-9ec8211344e8
+langcode: en
+status: true
+dependencies: {  }
+name: Category
+vid: category
+description: 'Select category for post items'
+weight: 0
